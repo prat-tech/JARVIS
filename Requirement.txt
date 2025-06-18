@@ -1,0 +1,12 @@
+customtkinter
+pyttsx3
+SpeechRecognition
+sounddevice
+scipy
+openai
+spotipy
+wikipedia
+requests
+playsound
+python-dotenv
+Pillow
